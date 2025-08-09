@@ -1,0 +1,12 @@
+Tests
+
+Total Coverage Summary 
+SCORE  GROUP  
+ 87.97  87.97 
+
+
+Total tests in report: 1
+-------------------------------------------------------------------------------
+Data from the following tests was used to generate this report
+mem_cov4/test 
+

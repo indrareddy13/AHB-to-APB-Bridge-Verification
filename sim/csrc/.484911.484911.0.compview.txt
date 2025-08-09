@@ -1,0 +1,9 @@
+{"vcs1":{"timestamp_begin":1746349022.766949421, "rt":11.01, "ut":11.04, "st":0.32}}
+{"vcselab":{"timestamp_begin":1746349033.830829933, "rt":0.33, "ut":0.26, "st":0.05}}
+{"link":{"timestamp_begin":1746349034.200420574, "rt":0.72, "ut":0.52, "st":0.17}}
+{"SNPS_VCS_INTERNAL_ROOT_START_TIME": 1746349022.265258150}
+{"VCS_COMP_START_TIME": 1746349022.265258150}
+{"VCS_COMP_END_TIME": 1746349039.638980053}
+{"VCS_USER_OPTIONS": "-l vcs.log -timescale=1ns/1ps -sverilog -ntb_opts uvm -debug_access+all -full64 -kdb -lca -P /home/cad/eda/SYNOPSYS/VERDI_2022/verdi/T-2022.06-SP1/share/PLI/VCS/LINUX64/novas.tab /home/cad/eda/SYNOPSYS/VERDI_2022/verdi/T-2022.06-SP1/share/PLI/VCS/LINUX64/pli.a ../rtl/ahb_apb_top.v ../rtl/ahb_slave.v ../rtl/apb_controller.v ../rtl/apb_interface.v ../rtl/bridge_if.sv +define+WRAPPING_INCR +incdir+../tb +incdir+../source +incdir+../destination ../tb/pkg.sv ../tb/top.sv"}
+{"vcs1": {"peak_mem": 485645}}
+{"stitch_vcselab": {"peak_mem": 485827}}

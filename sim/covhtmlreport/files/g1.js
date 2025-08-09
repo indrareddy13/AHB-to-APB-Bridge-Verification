@@ -1,0 +1,2 @@
+var g_data = {"14":{"pr":"/pkg","ty":2,"dui":2,"dun":"work.pkg","cvgs":[{"h":["\\/pkg::sb::ahb_cg ",2,1,21,15],"cov":[59,13,65.41],"opts":{"goal":"100","per_instance":"true"}},{"h":["/pkg/sb/ahb_cg",1,1,15],"cov":[59,13,65.41],"opts":{"goal":"100","merge_instance":"auto(true)"}},{"h":["\\/pkg::sb::apb_cg ",2,1,33,27],"cov":[76,10,50.93],"opts":{"goal":"100","per_instance":"true"}},{"h":["/pkg/sb/apb_cg",1,1,27],"cov":[76,10,50.93],"opts":{"goal":"100","merge_instance":"auto(true)"}}]}};
+processCovergroupsData(g_data);
