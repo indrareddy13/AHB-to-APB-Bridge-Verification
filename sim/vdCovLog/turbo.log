@@ -1,3 +1,0 @@
-Command Line: /home/cad/eda/SYNOPSYS/VERDI_2022/verdi/T-2022.06-SP1/platform/LINUXAMD64/bin/vdCov -covdir mem_cov4.vdb
-uname(Linux mavenserver-RH3 4.18.0-553.22.1.el8_10.x86_64 #1 SMP Wed Sep 11 18:02:00 EDT 2024 x86_64)
-au time 191.700139 3.175640 0.975332 delta 0 0 total 0 0

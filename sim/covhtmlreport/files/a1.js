@@ -1,2 +1,0 @@
-var g_data = {"14":{"pr":"/pkg","ty":2,"dui":2,"dun":"work.pkg","asserts":[{"n":["single_transfer/body/#ublk#30487#49/immed__52"],"h":[0,2]},{"n":["increment_transfer/body/immed__78"],"h":[0,1]},{"n":["increment_transfer/body/#anonblk#30487#89#4#/#ublk#30487#89/immed__92"],"h":[0,1]},{"n":["wrapping_transfer/body/immed__129"],"h":[0,1]},{"n":["wrapping_transfer/body/#anonblk#30487#150#4#/#ublk#30487#150/immed__154"],"h":[0,1]}],"ad":0}}
-processAssertionsData(g_data);

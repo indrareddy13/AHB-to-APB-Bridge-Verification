@@ -1,2 +1,0 @@
-var g_data = {"16":["slave1","slave2","slave3","slave4"],"17":["non_seq","seq"],"18":["zero","one","two"],"19":["zero","one"],"22":["slave1","slave2","slave3","slave4"],"23":["non_seq","seq"],"24":["zero","one","two"],"25":["zero","one"],"28":["slave1","slave2","slave3","slave4"],"29":["zero","one"],"30":["zero","one","two","three"],"31":["zero","one"],"34":["slave1","slave2","slave3","slave4"],"35":["zero","one"],"36":["zero","one","two","three"],"37":["zero","one"]};
-processCoverpointsMapData(g_data);
